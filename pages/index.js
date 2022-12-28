@@ -14,6 +14,7 @@ export default function Home() {
         <h1 className="title">
           Read <Link href="/posts/first-post">this page!</Link>
         </h1>
+        <h2>스텔라의 Next.js 스터디</h2>
 
         <p className={styles.description}>
           Get started by editing <code>pages/index.js</code>
